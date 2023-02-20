@@ -5,4 +5,3 @@ practicing git
 Hello world!
 
 On branch check-001
-have fun.
